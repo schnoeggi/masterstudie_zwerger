@@ -1,0 +1,51 @@
+{
+  "1": {
+    "question": "Ich möchte zukünftig lieber sehen",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": "3"
+  },
+  "2": {
+    "question": "Mir würde besser gefallen zu sehen",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": "3"
+  },
+  "3": {
+    "question": "Mich würde eher langweilen zu sehen",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": "3"
+  },
+  "4": {
+    "question": "Mich würde neugierig machen zu sehen",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": "3"
+  }
+}
+

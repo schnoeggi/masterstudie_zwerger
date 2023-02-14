@@ -1,0 +1,104 @@
+{
+  "1": {
+    "question": "Wie alt sind Sie?",
+    "type": "sc",
+    "answers": [
+      "<18",
+      "18-25",
+      "26-30",
+      "31-35",
+      "36-40",
+      "41-45",
+      "45-50",
+      "50+"
+    ],
+    "selected": ""
+  },
+  "2": {
+    "question": "Welches Geschlecht haben Sie? ",
+    "type": "sc",
+    "answers": [
+      "weiblich",
+      "männlich",
+      "divers"
+    ],
+    "selected": ""
+  },
+  "3": {
+    "question": "Wo wohnen Sie?",
+    "type": "sc",
+    "answers": [
+      "Österreich",
+      "Deutschland",
+      "Italien",
+      "Anderes Land"
+    ],
+    "selected": ""
+  },
+  "4": {
+    "question": "Verwenden Sie TikTok?",
+    "type": "sc",
+    "answers": [
+      "Nie",
+      "Selten",
+      "Manchmal",
+      "Häufig",
+      "Sehr Häufig"
+    ],
+    "selected": ""
+  },
+  "5": {
+    "question": "Kennen Sie das Konzept von TikTok Videos?",
+    "type": "sc",
+    "answers": [
+      "Ja",
+      "Nein"
+    ],
+    "selected": ""
+  },
+  "6": {
+    "question": "Verwenden Sie Instagram?",
+    "type": "sc",
+    "answers": [
+      "Nie",
+      "Selten",
+      "Manchmal",
+      "Häufig",
+      "Sehr Häufig"
+    ],
+    "selected": ""
+  },
+  "7": {
+    "question": "Kennen Sie das Konzept von Instagram Reels?",
+    "type": "sc",
+    "answers": [
+      "Ja",
+      "Nein"
+    ],
+    "selected": ""
+  },
+  "8": {
+    "question": "Wie gut sind Ihre Englischkenntnisse? Von 1(=überhaupt nicht gut) bis 5 (=ausgezeichnet)",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": ""
+  },
+  "9": {
+    "question": "Wie gut sind Ihre Deutschkenntnisse? Von 1(=überhaupt nicht gut) bis 5 (=ausgezeichnet) ",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": ""
+  }
+}

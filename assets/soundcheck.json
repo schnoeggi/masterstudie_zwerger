@@ -1,0 +1,12 @@
+{
+    "1": {
+      "question": "Welcher Satz wurde Ihnen vorgelesen?",
+      "type": "sc",
+      "answers": [
+        "Max klaut Äpfel aus Leonis Garten.",
+        "Franziska will heute Abend ausgehen.",
+        "Klaus trifft sich gerne mit seinen Freunden."
+      ],
+      "selected": ""
+    }
+}

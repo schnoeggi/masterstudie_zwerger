@@ -1,0 +1,67 @@
+{
+  "musik": {
+    "title": "Musik",
+    "icon": "mdi-music",
+    "selected": false
+  },
+  "sport": {
+    "title": "Sport",
+    "icon": "mdi-basketball",
+    "selected": false
+  },
+  "reisen": {
+    "title": "Reisen",
+    "icon": "mdi-airplane",
+    "selected": false
+  },
+  "beauty": {
+    "title": "Beauty & Fashion",
+    "icon": "mdi-flare",
+    "selected": false
+  },
+  "kunst": {
+    "title": "Kunst",
+    "icon": "mdi-palette",
+    "selected": false
+  },
+  "games": {
+    "title": "Computerspiele",
+    "icon": "mdi-controller",
+    "selected": false
+  },
+  "diy": {
+    "title": "Selbstgemacht",
+    "icon": "mdi-tools",
+    "selected": false
+  },
+  "auto": {
+    "title": "Autos & Co",
+    "icon": "mdi-car",
+    "selected": false
+  },
+  "science": {
+    "title": "Wissenschaft & Bildung",
+    "icon": "mdi-cog",
+    "selected": false
+  },
+  "dance": {
+    "title": "Tanzen",
+    "icon": "mdi-dance-ballroom",
+    "selected": false
+  },
+  "tier": {
+    "title": "(Haus-) Tiere",
+    "icon": "mdi-cat",
+    "selected": false
+  },
+  "comedy": {
+    "title": "Comedy",
+    "icon": "mdi-drama-masks",
+    "selected": false
+  },
+  "asmr": {
+    "title": "ASMR",
+    "icon": "mdi-ear-hearing",
+    "selected": false
+  }
+}

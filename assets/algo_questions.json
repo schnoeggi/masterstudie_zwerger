@@ -1,0 +1,28 @@
+{
+  "1": {
+    "question": "Wie zufrieden sind Sie mit der Auswahl des Algorithmus im ersten Teil der Studie?",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": ""
+  },
+  "2": {
+    "question": "Wie zufrieden sind sie mit der Auswahl des Algorithmus im zweiten Teil der Studie?",
+    "type": "sc",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "selected": ""
+  }
+}
+
+

@@ -1,0 +1,50 @@
+{
+  "1":{
+    "question":"Im Allgemeinen finde ich unsere Gesellschaft als gerecht.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "2":{
+    "question":"Im Allgemeinen finde ich, unser politisches System garantiert, dass Big Data Unternehmen und deren Algorithmen den Verbrauchern gegnüber fair sind.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "3":{
+    "question":"Die Datenschutzpolitik in unserem Land muss radikal umstrukturiert werden.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "4":{
+    "question":"Für Verbraucher:innen ist unser digitales System das Beste der Welt.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "5":{
+    "question":"Die meisten konsum- und wirtschaftspolitischen Maßnahmen in der digitalen Welt dienen dem Allgemeinwohl.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "6":{
+    "question":"Alle Verbaucher:innen haben eine faire Chance online transparente Informationen über Produkte zu erhalten, um eine fundierte Entscheidung treffen zu können.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "7":{
+    "question":"Die Ausbeutung der Verbraucher:innen durch die Big Data Unternehmen und deren Algorithmen wird von Jahr zu jahr schlimmer.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "8":{
+    "question":"Das Verhältnis zwischen Big Data Unternehmen und Verbraucher:innen ist so gestaltet, dass die Verbraucher:innen in der Regel bekommen, was sie verdienen.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "1":{
+    "question":"Ich fände es interessant, jemanden aus dem Ausland zu heiraten.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "2":{
+    "question":"Wenn ich Musik höre, sollte sie laut sein.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "3":{
+    "question":"Wenn ich verreise, denke ich, dass es am besten ist, so wenige Pläne wie möglich zu machen und es so zu nehmen, wie es kommt.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "4":{
+    "question":"Ich gehe nicht in Kinofilme, die ängstigend oder \"nervenaufreibend\" sind.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "5":{
+    "question":"Es würde mir Spaß machen, und ich fände es aufregend, vor einer Gruppe aufzutreten oder zu sprechen.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "6":{
+    "question":"Wenn ich auf einen Rummel gehe, würde ich die Achterbahn oder andere schnelle Bahnen bevorzugen.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "7":{
+    "question":"Ich würde gerne an fremde und entfernte Orte reisen.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "8":{
+    "question":"Mir hätte es gefallen, eine:r der ersten Entdecker:innen eines unbekannten Landes gewesen zu sein.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "9":{
+    "question":"Ich mag Filme, in denen eine Menge Explosionen und Verfolgungsjagden vorkommen.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "10":{
+    "question":"Es wäre interessant, einen Autounfall zu beobachten.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "11":{
+    "question":"Ich denke, wenn man im Restaurant isst, ist es am besten, sich etwas Bekanntes zu bestellen.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "12":{
+    "question":"Ich mag das Gefühl, am Rande eines Abgrundes oder in großer Höhe zu stehen und herunterzuschauen.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "13":{
+    "question":"Wenn es möglich wäre, umsonst auf den Mond oder einen anderen Planeten zu fliegen, wäre ich unter den ersten, die sich dafür melden würden.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  },
+  "14":{
+    "question":"Ich kann mir vorstellen, dass es aufregend sein muss, während eines Krieges in einem Kampf zu sein.",
+    "type":"sc",
+    "answers":["1", "2", "3", "4"],
+    "selected":""
+  }
+}

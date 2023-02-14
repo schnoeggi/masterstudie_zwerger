@@ -1,0 +1,102 @@
+{
+  "1": {
+    "1": {
+      "question": "Ich habe die Videos gerne gesehen.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    },
+    "2": {
+      "question": "Mir haben die Videos gut gefallen.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    },
+    "3": {
+      "question": "Mich haben die Videos gelangweilt.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    },
+    "4": {
+      "question": "Die Videos haben meine Aufmerksamkeit angezogen.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    }
+  },
+  "2": {
+    "1": {
+      "question": "Ich habe die Videos gerne gesehen.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    },
+    "2": {
+      "question": "Mir haben die Videos gut gefallen.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    },
+    "3": {
+      "question": "Mich haben die Videos gelangweilt.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    },
+    "4": {
+      "question": "Die Videos haben meine Aufmerksamkeit angezogen.",
+      "type": "sc",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "selected": ""
+    }
+  }
+}
